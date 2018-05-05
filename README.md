@@ -19,9 +19,9 @@ To run the program type
 
 ./mycat filename1 filename2
 
-mycat works like the regular cat program and can be used with commands such
+mycat works like the regular cat program and can be used with commands such as 
 
-as < > and | grep string1
+< > and | grep string1
 
 example
 
